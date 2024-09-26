@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R9JJAYL
-- 👀 I’m interested in data analytics & science
+- 👀 I’m interested in data & business analytics
 - 🌱 I’m currently learning Python, SQL & Tableau
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/jamiejaylyons/
 
