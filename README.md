@@ -2,10 +2,9 @@
 - 🌱 Expanding skill with Python, SQL & Tableau
 - 👀 Check out one of my SQL analysis here : https://github.com/R9JJAYL/SQLAnalysisForFundRaise
 - 👀 Check out some of the Tableau dashboards projects : https://public.tableau.com/app/profile/jamie.lyons/vizzes
-- 
 
 - 📫 Reach me or check out my articles on Data, AI, ML & Blockchain on LinkedIn! https://www.linkedin.com/in/jamiejaylyons/
-- 
+  
 
 
 
