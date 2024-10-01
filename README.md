@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @R9JJAYL, I’m interested in data & business analytics
-- 🌱 I’m currently learning Python, SQL & Tableau
+- 👋 Hi, I’m @R9JJAYL, interested in data & business analytics
+- 🌱 Expanding skill with Python, SQL & Tableau
 - 👀 Check out one of my SQL analysis here : https://github.com/R9JJAYL/SQLAnalysisForFundRaise
 - 👀 Check out some of the Tableau dashboards projects : https://public.tableau.com/app/profile/jamie.lyons/vizzes
 
