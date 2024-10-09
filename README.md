@@ -3,7 +3,7 @@
 - 👀 A project on securing a fundraise for an online buisness - [SQL Analysis here](https://github.com/R9JJAYL/SQLAnalysisForFundRaise)
 - 👀 Check out some of the [Tableau dashboards projects](https://public.tableau.com/app/profile/jamie.lyons/vizzes)
 
-- 📫 Reach me or check out my articles on [Data, AI, ML & Blockchain](https://www.linkedin.com/in/jamiejaylyons/)
+- 📫 Reach me or check out my articles on [Tech, Data, AI, ML & Blockchain](https://www.linkedin.com/in/jamiejaylyons/)
   
 
 
