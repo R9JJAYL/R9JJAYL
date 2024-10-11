@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @R9JJAYL, interested in data & business analytics (SQL, Tableau, Python, Google Sheets & GenAI)
 - 🌱 Visit My [portfolio here](https://r9jjayl.github.io/)
   
-- 📫 Reach me or check out my articles on [Tech, Data, AI, ML & Blockchain](https://www.linkedin.com/in/jamiejaylyons/)
+- 📫 Reach me or check out my articles [(Tech, Data, AI, ML & Blockchain focused) through LinkedIn](https://www.linkedin.com/in/jamiejaylyons/)
   
 
 
